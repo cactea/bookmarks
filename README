@@ -1,0 +1,12 @@
+Technologies used:
+- Bootstrap v4.1.3
+- jQuery v3.3.1 (as Bootstrap Dependency)
+- Fontawesome 5 - Free (for Iconic Fonts)
+
+Directory Structure:
+- images (static image dir)
+- style (static css dir)
+- lib (vendors dir)
+-- bootstrap (jquery vendor dir)
+-- jquery (jquery vendr dir)
+
