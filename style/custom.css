@@ -32,10 +32,12 @@
 	margin-bottom:20px;
 }
 
-.content .card .icon {
-	float:left;
-	width:20px;
-	margin-right:10px;
+.content .card p.area-icon {
+	text-align:center;
+}
+
+.content .card p.area-icon .icon {
+	width:50px;
 }
 
 .content .card .card-footer {
